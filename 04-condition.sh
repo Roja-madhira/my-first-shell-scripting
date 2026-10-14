@@ -14,7 +14,7 @@ elif [ $marks -lt 65]; then
 elif [ $marks -lt 75 ]; then
     echo "First class"
 else
-    echo "student passed with Distinction"
+    echo " Distinction"
 fi
 
 echo "End"
